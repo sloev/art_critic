@@ -1,0 +1,2 @@
+FROM bvlc/caffe:cpu
+
